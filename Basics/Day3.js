@@ -1,7 +1,7 @@
 // Data Types and conversion
 
 
-/* 
+
 
 let a=10;
 let b=20;
@@ -58,7 +58,7 @@ console.log(typeof bool2);
 
 console.log(Boolean(bool2));
 
-*/
+
 
 // Operations
 
